@@ -1,27 +1,21 @@
-# Brasil Digital Pack
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/brasil-digital-pack)
-
-7 mentes brasileiras do digital: Finch (funis), Ladeira (copy/ads), Amorim (IA), De Marqui (PKM), Alan Nicolas (IA aplicada), Valerio (automação), Lozano (arquitetura cognitiva). Use quando: estratégia digital com frameworks brasileiros testados.
-
-| | |
-|---|---|
-| **Category** | squads |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $299.00 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/brasil-digital-pack) to install.
-
-```bash
-# After purchase:
-myclaude install brasil-digital-pack
-```
-
-## About
+---
+name: brasil-digital-pack
+display_name: Brasil Digital Pack
+description: "7 mentes brasileiras do digital: Finch (funis), Ladeira (copy/ads), Amorim (IA), De Marqui (PKM), Alan Nicolas (IA aplicada), Valerio (automação), Lozano (arquitetura cognitiva). Use quando: estratégi"
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "marketing-digital"
+  - "brasil"
+  - "funis"
+  - "copywriting"
+  - "IA"
+  - "automação"
+  - "PKM"
+marketplace_url: "https://myclaude.sh/p/brasil-digital-pack"
+user-invocable: true
+---
 
 # Brasil Digital Pack
 
@@ -83,13 +77,3 @@ MIT
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`marketing-digital` `brasil` `funis` `copywriting` `IA` `automação` `PKM`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/brasil-digital-pack) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*
