@@ -1,0 +1,14 @@
+name: brasil-digital-pack
+version: 1.0.0
+type: bundle
+description: "7 mentes brasileiras para dominar o digital: Thiago Finch (funis), Leandro Ladeira (copy/ads), Jose Amorim (IA), Adriano de Marqui (PKM), Alan Nicolas (IA aplicada), Pedro Valerio (automacao), Joao Lozano (arquitetura cognitiva)"
+price: 299
+license: MIT
+entry: BUNDLE.md
+tags:
+  - brasil
+  - marketing-digital
+  - ia
+  - automacao
+  - copy
+  - funis
